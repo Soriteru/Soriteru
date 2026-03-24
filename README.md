@@ -16,7 +16,7 @@ Bienvenue sur mon profil ! Actuellement en **BTS SIO option SLAM** (Solutions Lo
 | :--- | :--- |
 | **Langages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Frameworks** |  |
-| **Outils & IDE** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Outils & IDE** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
@@ -32,8 +32,8 @@ Bienvenue sur mon profil ! Actuellement en **BTS SIO option SLAM** (Solutions Lo
 
 ### 📈 Statistiques GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&theme=nord" height="150" alt="Stats de mon profil" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&theme=nord" height="150" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soriteru&show_icons=true&theme=nord" height="150" alt="Stats de mon profil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soriteru&layout=compact&theme=nord" height="150" alt="Langages les plus utilisés" />
 </p>
 
 ---
