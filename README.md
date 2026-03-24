@@ -32,11 +32,8 @@ Bienvenue sur mon profil ! Actuellement en **BTS SIO option SLAM** (Solutions Lo
 
 ### 📈 Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soriteru&show_icons=true&theme=nord" height="150" alt="Stats de mon profil" />
-</p>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soriteru&layout=compact&theme=nord" height="150" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soriteru&show_icons=true&theme=nord&count_private=true&cache_seconds=1800" height="150" alt="Stats de mon profil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soriteru&layout=compact&theme=nord&count_private=true&cache_seconds=1800" height="150" alt="Langages les plus utilisés" />
 </p>
 
 ---
