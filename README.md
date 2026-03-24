@@ -22,8 +22,8 @@ Bienvenue sur mon profil ! Actuellement en **BTS SIO option SLAM** (Solutions Lo
 
 ### 📂 Projets Académiques (BTS SIO)
 
-* **[Nom du Projet 1] :** Site web.
-    * *Technologies :* .
+* **[Nexus Digital - Bar Gaming] :** **<a href="https://github.com/Soriteru/Nexus-Digital-Bar---Projet-BTS-SIO">Site web vitrine complet (Projet SLAM)</a>**.
+    * *Technologies :* ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white).
 * **[Nom du Projet 2] :** .
     * *Technologies :* .
 * **[Nom du Projet 3] :** .
