@@ -32,10 +32,22 @@ Bienvenue sur mon profil ! Actuellement en **BTS SIO option SLAM** (Solutions Lo
 ---
 
 ### 📈 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soriteru&show_icons=true&theme=radical" height="150" alt="Stats de mon profil" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soriteru&layout=compact&theme=nord&count_private=true&cache_seconds=1800" height="150" alt="Langages les plus utilisés" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soriteru&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soriteru&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soriteru&theme=radical&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=FF4500&currStreakLabel=00FF88" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Soriteru&style=for-the-badge&color=00FF88&label=VISITES+DU+PROFIL" />
+</div>
 
 ---
 
