@@ -1,34 +1,42 @@
-# 👨‍💻 Sohan | Étudiant en BTS SIO (Option SLAM)
+# 👨‍💻 Sohan Blémand · Étudiant en BTS SIO (option SLAM)
 
-Bienvenue sur mon profil ! Actuellement en **BTS SIO option SLAM** (Solutions Logicielles et Applications Métiers), je me passionne pour le développement d'applications et la gestion de données. Mon objectif est de concevoir des solutions informatiques qui répondent aux besoins concrets des organisations.
+> Développement d'applications web et gestion de données. J'aime concevoir des solutions simples et concrètes, utiles aux organisations.
+
+🎓 BTS Services Informatiques aux Organisations (SLAM) · Lycée Général et Technologique Henri Matisse
+🎯 Objectif : Licence Pro Métiers de l'informatique, applications web
 
 ---
 
-### 🚀 À propos de moi
-- 🎓 **Formation :** BTS Services Informatiques aux Organisations au sein du **Lycée Général et Technologique Henri Matisse**.
-- 💡 **Intérêts :** 
-- 🛠 **Projets actuels :** 
-- 🔭 **Objectif :** Intégrer une Licence Pro après mon diplôme.
+### 🔭 En ce moment
+- 📚 En **2e année** de BTS SIO, option SLAM (Solutions Logicielles et Applications Métiers).
+- 🛠️ Je développe mon **portfolio** multi-pages en **PHP** (HTML, CSS, JavaScript), déployé en site statique.
+- 📡 Je mène une **veille technologique** sur **l'IA et la conduite autonome**, mise à jour chaque semaine.
+- 🤝 Stage de 2e année prévu en janvier-février 2027.
 
-### 🛠️ Stack Technique
+### 🛠️ Stack technique
 
 | Catégorie | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Langages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) |
-| **Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GLPI](https://img.shields.io/badge/GLPI-035AA6?style=for-the-badge&logo=glpi&logoColor=white) ![GanttProject](https://img.shields.io/badge/GanttProject-5C9ED1?style=for-the-badge&logo=ganttproject&logoColor=white) |
+| **Base de données** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) |
+| **CMS & e-commerce** | ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white) |
+| **Systèmes & outils** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GLPI](https://img.shields.io/badge/GLPI-035AA6?style=for-the-badge&logo=glpi&logoColor=white) ![GanttProject](https://img.shields.io/badge/GanttProject-5C9ED1?style=for-the-badge&logo=ganttproject&logoColor=white) |
 
 ---
 
-### 📂 Projets Académiques (BTS SIO)
+### 📂 Projets
 
-* **[Nexus Digital - Bar Gaming] :** **<a href="https://github.com/Soriteru/Nexus-Digital-Bar---Projet-BTS-SIO">Site web vitrine complet (Projet SLAM)</a>**
-    * *Technologies :* PhP, SQL, BootStrap, HTML5, CSS
-* **[\] :** .
-    * *Technologies :* .
-* **[\] :** .
-   * *Technologies :* .
+- **Nexus Digital** · site vitrine d'un bar sur le thème du jeu vidéo.
+  Charte graphique, HTML5/CSS3, Bootstrap, SEO et base de données.
+  → [Voir le dépôt](https://github.com/Soriteru/Nexus-Digital-Bar---Projet-BTS-SIO)
+- **GLPI** · gestion de parc informatique et support utilisateur.
+  Inventaire manuel puis automatisé, traitement des tickets, installation de l'outil.
+- **KetaYaso** · boutique e-commerce sous PrestaShop (projet de groupe).
+  Catalogue, déclinaisons de produits (couleur, dimension, nombre de personnes) et référencement.
+
+👉 Détails, étapes et comptes rendus sur mon portfolio : **https://blemandsohan.wordpress.com/**
+
 ---
 
 ### 📈 Statistiques GitHub
@@ -43,15 +51,9 @@ Bienvenue sur mon profil ! Actuellement en **BTS SIO option SLAM** (Solutions Lo
 
 </div>
 
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Soriteru&style=for-the-badge&color=00FF88&label=VISITES+DU+PROFIL" />
-</div>
-
 ---
 
 ### 📫 Me contacter
 - **LinkedIn :** https://www.linkedin.com/in/blemand-sohan-976719399/
-- **Email :** sohanblemandpro@gmail.com
+- **E-mail :** sohanblemandpro@gmail.com
 - **Portfolio :** https://blemandsohan.wordpress.com/
